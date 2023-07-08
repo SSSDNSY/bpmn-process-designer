@@ -18,7 +18,7 @@
     "bpmn-js-token-simulation": "^0.27.0",
     "bpmnlint": "^7.8.0",
     "camunda-bpmn-moddle": "^7.0.1",
-    "core-js": "^3.8.1",
+    "core-js": "^3.31.0",
     "diagram-js-minimap": "^2.1.1",
     "element-ui": "^2.15.10",
     "highlight.js": "^10.5.0",
