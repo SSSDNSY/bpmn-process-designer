@@ -13,7 +13,7 @@
     "@bpmn-io/properties-panel": "^0.20.3",
     "bpmn-js": "^9.4.1",
     "bpmn-js-bpmnlint": "^0.19.0",
-    "bpmn-js-connectors-extension": "^0.4.1",
+    "bpmn-js-connectors-extension": "^0.4.6",
     "bpmn-js-properties-panel": "^1.6.1",
     "bpmn-js-token-simulation": "^0.27.0",
     "bpmnlint": "^7.8.0",
